@@ -1,0 +1,19 @@
+{
+  "name": "codex-trajectory-panel",
+  "version": "0.1.1",
+  "description": "A local trajectory viewer for the Windows Codex desktop app.",
+  "type": "module",
+  "scripts": {
+    "test": "node --test tests/session-parser.test.mjs"
+  },
+  "engines": {
+    "node": ">=22"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cpsGGG/codex-trajectory-panel.git"
+  },
+  "keywords": ["codex", "trajectory", "trace", "tokens", "electron"],
+  "author": "cpsGGG",
+  "license": "MIT"
+}

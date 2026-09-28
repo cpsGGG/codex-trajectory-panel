@@ -1,0 +1,34 @@
+{
+  "name": "codex-trajectory-panel",
+  "version": "0.1.1+codex.20260902162714",
+  "description": "View each Codex task's request, assistant, tool, input, token, timing, payload, result, and schema trajectory directly inside Codex desktop.",
+  "author": {
+    "name": "cpsGGG"
+  },
+  "license": "MIT",
+  "keywords": [
+    "codex",
+    "trajectory",
+    "trace",
+    "tokens",
+    "desktop"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Codex \u5185\u5d4c\u8f68\u8ff9",
+    "shortDescription": "\u5728\u6bcf\u4e2a Codex \u4efb\u52a1\u91cc\u76f4\u63a5\u67e5\u770b\u5b8c\u6574\u8c03\u7528\u8f68\u8ff9\u3002",
+    "longDescription": "\u4e3a Codex \u684c\u9762\u7aef\u589e\u52a0\u201c\u5bf9\u8bdd / \u8f68\u8ff9\u201d\u89c6\u56fe\uff0c\u663e\u793a\u8f6e\u6b21\u3001\u6a21\u578b\u8c03\u7528\u3001\u5de5\u5177\u8c03\u7528\u3001\u8f93\u5165\u4e0a\u4e0b\u6587\u3001Token \u4e0e\u8017\u65f6\u3002\u6570\u636e\u53ea\u4ece\u672c\u673a Codex \u4f1a\u8bdd\u65e5\u5fd7\u8bfb\u53d6\u3002",
+    "developerName": "cpsGGG",
+    "category": "Productivity",
+    "capabilities": [
+      "Local",
+      "Interactive",
+      "Read-only"
+    ],
+    "defaultPrompt": [
+      "\u6253\u5f00\u5f53\u524d\u4efb\u52a1\u7684\u8f68\u8ff9\u89c6\u56fe\u3002",
+      "\u89e3\u91ca\u8fd9\u4e2a\u4efb\u52a1\u7684\u6a21\u578b\u548c\u5de5\u5177\u8c03\u7528\u3002"
+    ],
+    "brandColor": "#8B6CB4"
+  }
+}

@@ -1,0 +1,21 @@
+# Dependencies and generated output
+node_modules/
+coverage/
+*.log
+
+# Local runtime data
+.codex/
+logs/
+
+# Browser/CDP test profiles contain machine-specific identifiers and caches
+tests/cdp-profile/
+tests/chrome-profile/
+
+# Live captures can contain private task names or conversation content
+tests/live-*.png
+
+# Editor and OS files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
