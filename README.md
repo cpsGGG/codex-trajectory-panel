@@ -1,5 +1,7 @@
 # Codex Trajectory Panel
 
+**简体中文** | [English](README_EN.md)
+
 [![Windows](https://img.shields.io/badge/platform-Windows-2563eb)](https://github.com/cpsGGG/codex-trajectory-panel)
 [![Node.js 22+](https://img.shields.io/badge/Node.js-22%2B-339933)](https://nodejs.org/)
 [![MIT License](https://img.shields.io/badge/license-MIT-8b6cb4)](LICENSE)
